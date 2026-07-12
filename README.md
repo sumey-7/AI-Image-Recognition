@@ -31,8 +31,7 @@ Using a representative dataset of curated images, perfectly balanced for accurat
 
 ### Class 1: Taif Rose (Light pink, delicate)
 <div align="left">
-  <img src="./dataset/Taif1.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 1" />
-  <img src="./dataset/Taif2.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 2" />
+
   <img src="./dataset/Taif3.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 3" />
   <img src="./dataset/Taif4.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 4" />
   <img src="./dataset/Taif5.jpg" width="70" height="70" style="border-radius: 5px;" alt="Taif Rose 5" />
@@ -40,8 +39,7 @@ Using a representative dataset of curated images, perfectly balanced for accurat
 
 ### Class 2: Damask Rose (Deep red, structured)
 <div align="left">
-  <img src="./dataset/Damask1.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 1" />
-  <img src="./dataset/Damask2.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 2" />
+
   <img src="./dataset/Damask3.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 3" />
   <img src="./dataset/Damask4.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 4" />
   <img src="./dataset/Damask5.jpg" width="70" height="70" style="border-radius: 5px;" alt="Damask Rose 5" />
@@ -53,13 +51,9 @@ Using a representative dataset of curated images, perfectly balanced for accurat
 
 ## 🏆 Final Evaluation & Results
 
-| Metric | Classification Performance | Status |
-| :--- | :---: | :---: |
-| **Model Type** | Keras Deep Learning (`.h5`) | Fully Trained |
-| **Input Shape** | $224 \times 224 \times 3$ (RGB) | Verified |
-| **Prediction Output** | Class Name & Confidence Score | Active |
+<img width="690" height="123" alt="Result" src="https://github.com/user-attachments/assets/af0df4ae-79dd-4ab5-9b56-06ca5b3922d6" />
 
-### 🚀 Try It Live
+## 🚀 Try It Live
 Click the badge below to run and test the interactive code directly inside your browser:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ضعي_رابط_مشاركة_كولاب_الأزرق_هنا)
