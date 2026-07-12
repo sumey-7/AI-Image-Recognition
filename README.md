@@ -27,11 +27,25 @@ Taif city is globally renowned as the **"City of Roses"**, cultivating over 900 
 
 ## 📸 Training Dataset Sample
 
-### Class 1: Taif Rose (Light pink, delicate, multi-layered petals)
-<img src="[dataset/Taif1.jpg](https://github.com/sumey-7/AI-Image-Recognition/blob/main/dataset/Taif1.jpg)" width="70" height="70"/> <img src="[رابط_الصورة_الثانية](https://github.com/sumey-7/AI-Image-Recognition/blob/main/dataset/Taif2.jpg?raw=true)" width="70" height="70"/> <img src="رابط_الصورة_الثالثة" width="70" height="70"/> <img src="رابط_الصورة_الرابعة" width="70" height="70"/> <img src="رابط_الصورة_الخامسة" width="70" height="70"/>
+Using a representative dataset of curated images, perfectly balanced for accurate deep learning training.
 
-### Class 2: Damask Rose (Deep red, structured, spiral petals)
-<img src="رابط_الصورة_الأولى" width="70" height="70"/> <img src="رابط_الصورة_الثانية" width="70" height="70"/> <img src="رابط_الصورة_الثالثة" width="70" height="70"/> <img src="رابط_الصورة_الرابعة" width="70" height="70"/> <img src="رابط_الصورة_الخامسة" width="70" height="70"/>
+### Class 1: Taif Rose (Light pink, delicate)
+<div align="left">
+  <img src="./dataset/Taif1.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 1" />
+  <img src="./dataset/Taif2.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 2" />
+  <img src="./dataset/Taif3.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 3" />
+  <img src="./dataset/Taif4.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Taif Rose 4" />
+  <img src="./dataset/Taif5.jpg" width="70" height="70" style="border-radius: 5px;" alt="Taif Rose 5" />
+</div>
+
+### Class 2: Damask Rose (Deep red, structured)
+<div align="left">
+  <img src="./dataset/Damask1.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 1" />
+  <img src="./dataset/Damask2.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 2" />
+  <img src="./dataset/Damask3.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 3" />
+  <img src="./dataset/Damask4.jpg" width="70" height="70" style="margin-right: 5px; border-radius: 5px;" alt="Damask Rose 4" />
+  <img src="./dataset/Damask5.jpg" width="70" height="70" style="border-radius: 5px;" alt="Damask Rose 5" />
+</div>
 
 > 💡 *Note: All training images were automatically normalized and resized to $224 \times 224$ pixels before the matrix training stage.*
 
