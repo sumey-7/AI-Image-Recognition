@@ -56,4 +56,4 @@ Using a representative dataset of curated images, perfectly balanced for accurat
 ## 🚀 Try It Live
 Click the badge below to run and test the interactive code directly inside your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ضعي_رابط_مشاركة_كولاب_الأزرق_هنا)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nLZlOQ2ts2LJyVmF0_sxxfOcRXI0_Qh8?usp=sharing)
