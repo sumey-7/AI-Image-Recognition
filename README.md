@@ -28,10 +28,10 @@ Taif city is globally renowned as the **"City of Roses"**, cultivating over 900 
 ## 📸 Training Dataset Sample
 
 ### Class 1: Taif Rose (Light pink, delicate, multi-layered petals)
-<img src="https://picsum.photos/id/669/100/100" width="100" height="100"/> <img src="https://picsum.photos/id/669/100/100" width="100" height="100"/> <img src="https://picsum.photos/id/669/100/100" width="100" height="100"/>
+<img src="[dataset/Taif1.jpg](https://github.com/sumey-7/AI-Image-Recognition/blob/main/dataset/Taif1.jpg)" width="70" height="70"/> <img src="[رابط_الصورة_الثانية](https://github.com/sumey-7/AI-Image-Recognition/blob/main/dataset/Taif2.jpg?raw=true)" width="70" height="70"/> <img src="رابط_الصورة_الثالثة" width="70" height="70"/> <img src="رابط_الصورة_الرابعة" width="70" height="70"/> <img src="رابط_الصورة_الخامسة" width="70" height="70"/>
 
 ### Class 2: Damask Rose (Deep red, structured, spiral petals)
-<img src="https://picsum.photos/id/152/100/100" width="100" height="100"/> <img src="https://picsum.photos/id/152/100/100" width="100" height="100"/> <img src="https://picsum.photos/id/152/100/100" width="100" height="100"/>
+<img src="رابط_الصورة_الأولى" width="70" height="70"/> <img src="رابط_الصورة_الثانية" width="70" height="70"/> <img src="رابط_الصورة_الثالثة" width="70" height="70"/> <img src="رابط_الصورة_الرابعة" width="70" height="70"/> <img src="رابط_الصورة_الخامسة" width="70" height="70"/>
 
 > 💡 *Note: All training images were automatically normalized and resized to $224 \times 224$ pixels before the matrix training stage.*
 
